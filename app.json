@@ -1,0 +1,43 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/one/one",
+    "pages/two/two"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "円孖",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "borderStyle":"black",
+
+    "list":[{
+      "pagePath":"pages/index/index",
+      "text":"名片",
+      "iconPath": "image/people.png",
+      "selectedIconPath": "image/people.png",
+      "badge": "new"
+      
+    },
+    {
+      "pagePath": "pages/two/two",
+      "text": "项目",
+      "iconPath": "image/fen.png",
+      "selectedIconPath": "image/fen.png",
+      "badge": "new"
+     
+    },
+    {
+      "pagePath": "pages/one/one",
+      "text": "简历",
+      "iconPath": "image/people.png",
+      "selectedIconPath": "image/people.png",
+      "badge": "new"
+      
+    }
+    ]
+  }
+}

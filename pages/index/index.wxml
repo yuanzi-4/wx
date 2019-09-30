@@ -1,0 +1,24 @@
+<!--index.wxml-->
+<view>
+  <view class="cont">
+  <image src="../../image/mei.jpg"></image>
+  </view>
+  <view class="mage">
+  <text>申梦源</text>
+  <view class='mag'>
+    <text>手机</text>
+    <text>1234567890</text>
+    <text>拨打</text>
+  </view>
+  <view class='mag'>
+    <text>邮箱</text>
+    <text>123456@qq.com</text>
+    <text>复制</text>
+  </view>
+  <view class='mag'>
+    <text>职业</text>
+    <text>web前端工程师</text>
+    <text>复制</text>
+  </view>
+  </view>
+</view>
