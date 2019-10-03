@@ -21,4 +21,18 @@
     <text>复制</text>
   </view>
   </view>
+  <view class="a">
+  <view class="three">
+      <image src="../../image/a_03.jpg" class="tu"></image>
+      <view>生成海报</view>
+  </view>
+   <view class="three">
+      <image src="../../image/a_05.jpg" class="tu"></image>
+      <view>保存电话</view>
+  </view>
+   <view class="three">
+      <image src="../../image/a_08.jpg" class="tu"></image>
+      <view>分享好友</view>
+  </view>
+  </view>
 </view>

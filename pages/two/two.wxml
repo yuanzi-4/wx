@@ -1,2 +1,6 @@
 <!--pages/two/two.wxml-->
 <text>这是申梦源的项目</text>
+<navigator url="../index/index.wxml" bindtap="getinfo">
+<image src="../../image/mei.jpg"></image>
+</navigator>
+<view>点击跳转</view>

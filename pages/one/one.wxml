@@ -1,2 +1,9 @@
-<!--pages/one/one.wxml-->
-<text>我是简历</text>
+<!--index.wxml-->
+<view>
+  <view class="cont">
+  <image src="../../image/mei.jpg"></image>
+  </view>
+  <view class="mage">
+    
+  </view>
+</view>
